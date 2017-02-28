@@ -65,10 +65,8 @@ I used this training data for training the model. The validation set helped dete
 ###4. Video
 The result of the car driving around track 1 and track 2 can be seen in the following videos uploaded onto YouTube.
 
-Track 1
-
+Track 1<br>
 [![Track 1](./images/center_lane_driving.jpg)](https://youtu.be/0Ap-CEtEQig "Track 1")
 
-Track 2
+Track 2<br>
 [![Track 2](./images/track_2_thumpnail.jpg)](https://youtu.be/XtIj0nkb5S8 "Track 2")
-
