@@ -8,6 +8,9 @@
 [image4]: ./images/recovery_3.jpg "Recovery Driving"
 [image5]: ./images/flip.png "Flip"
 [image6]: ./images/epoch_vs_loss.png "Epochs vs Loss"
+[image7]: ./images/epoch_vs_loss.png "Epochs vs Loss"
+[image8]: ./images/epoch_vs_loss.png "Epochs vs Loss"
+[image9]: ./images/track_2_thumpnail.jpg "Track 2 Thumbnail"
 
 ###Model Architecture and Training Strategy
 
@@ -63,9 +66,9 @@ I used this training data for training the model. The validation set helped dete
 The result of the car driving around track 1 and track 2 can be seen in the following videos uploaded onto YouTube.
 
 Track 1
-https://youtu.be/0Ap-CEtEQig
+
+[![Track 1](./images/center_lane_driving.jpg)](https://youtu.be/0Ap-CEtEQig "Track 1")
 
 Track 2
-https://youtu.be/XtIj0nkb5S8
-
+[![Track 2](./images/track_2_thumpnail.jpg)](https://youtu.be/XtIj0nkb5S8 "Track 2")
 
