@@ -17,7 +17,6 @@ from keras.layers.pooling import MaxPooling2D
 from keras.layers import Cropping2D
 from keras.activations import relu
 from keras.optimizers import Adam
-from keras.preprocessing.image import ImageDataGenerator
 
 
 class AutonomousDriver:
